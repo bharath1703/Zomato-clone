@@ -1,0 +1,26 @@
+.home_container {
+  padding: 10px 10px 0px 5px;
+}
+.navbar {
+  cursor: pointer;
+}
+ul > li {
+  list-style-type: none;
+  padding-left: 3px;
+}
+.login {
+  display: none;
+}
+.Log:hover .login {
+  text-align: center;
+  list-style-type: none;
+  transform: translateX(-100px);
+  position: fixed;
+  display: block;
+  padding: 5px;
+  border-radius: 10px;
+  background: lightslategray;
+}
+.input {
+  border-radius: 5px;
+}

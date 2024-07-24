@@ -1,0 +1,31 @@
+.Collection_container {
+  height: fit-content;
+  width: 100%;
+  padding: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.Img-Card > img {
+  height: 150px;
+}
+
+.links {
+  text-decoration: none;
+}
+.card-title {
+  font-weight: 500;
+}
+.sub_title {
+  font-weight: 450;
+}
+.card-info {
+  font-size: 14px;
+}
+.box {
+  background-color: green;
+  display: flex;
+  flex-wrap: wrap;
+}

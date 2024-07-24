@@ -1,0 +1,27 @@
+[
+  {
+    "id": "01",
+    "icon": "/Images/BrandsLogo/burgerKing.jpeg",
+    "title": "Fasos"
+  },
+  {
+    "id": "02",
+    "icon": "/Images/BrandsLogo/dominos.jpeg",
+    "title": "Burger King"
+  },
+  {
+    "id": "03",
+    "icon": "/Images/BrandsLogo/faasos.png",
+    "title": "Dominos"
+  },
+  {
+    "id": "04",
+    "icon": "/Images/BrandsLogo/kfc.jpeg",
+    "title": "Kfc"
+  },
+  {
+    "id": "05",
+    "icon": "/Images/BrandsLogo/pizzaHut.jpeg",
+    "title": "Pizza Hut"
+  }
+]

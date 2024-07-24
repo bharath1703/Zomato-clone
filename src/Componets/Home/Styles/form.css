@@ -1,0 +1,50 @@
+.Signup_container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(45deg, rgb(10, 168, 241), rgb(247, 248, 246));
+  border-radius: 10px;
+}
+
+.SignUp_card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 270px;
+  width: 270px;
+  background: linear-gradient(45deg, rgb(95, 66, 190), rgb(215, 86, 86));
+  padding: 15px;
+  border-radius: 20px;
+}
+.sginput {
+  transform: translateX(9px);
+}
+.eye {
+  transform: translateX(10px);
+}
+.Signup_input > input {
+  border-radius: 5px;
+}
+.btn {
+  margin-top: 5px;
+}
+.Zomato {
+  color: red;
+  font-weight: 800;
+}
+.Err {
+  color: red;
+  position: fixed;
+  transform: translatex(-10px);
+}
+.PassErr {
+  color: red;
+  position: fixed;
+  transform: translatex(-16px);
+}
+form > h2 {
+  color: whitesmoke;
+}
